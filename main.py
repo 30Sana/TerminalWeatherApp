@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-skies - a beautiful terminal weather app
+Terminal Weather App - a beautiful terminal weather app
 No API key required. Powered by Open-Meteo & ip-api.com
 """
 
