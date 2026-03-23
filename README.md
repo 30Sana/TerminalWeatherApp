@@ -19,7 +19,7 @@ A beautiful terminal weather app with no API key required.
 
 ```bash
 git clone https://github.com/30Sana/TerminalWeatherApp.git
-cd skies
+cd TerminalWeatherApp
 pip install -r requirements.txt
 ```
 
