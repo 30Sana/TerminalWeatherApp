@@ -18,7 +18,7 @@ A beautiful terminal weather app with no API key required.
 ## Install
 
 ```bash
-git clone https://github.com/yourusername/skies.git
+git clone https://github.com/30Sana/TerminalWeatherApp.git
 cd skies
 pip install -r requirements.txt
 ```
